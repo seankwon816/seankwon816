@@ -16,4 +16,12 @@ npx skills add seankwon816/foragent-skills
 ```
 
 ### [ClevAgent](https://clevagent.io)
-Run and guide your AI agents in one workspace. ClevAgent quietly handles safety checks in the background. Not open yet.
+Workspace for running and guiding AI agents with independent human review over supported risky actions.
+- Pauses recognized secret sharing and private credential access for your approval.
+- Reviews supported destructive Git actions, dangerous commands, and changes to protected agent settings or startup tasks.
+- Pauses detected payments, subscriptions, data deletions, and account closures before execution.
+- Currently completing pre-launch work; check [clevagent.io](https://clevagent.io) for current status.
+
+## Open-Source Guardrails & Field Notes
+
+- **[seankwon816/ai-coding-agent-tips](https://github.com/seankwon816/ai-coding-agent-tips)**: Zero-dependency `.claude/` and `AGENTS.md` config auditor, drop-in starter rules, and doc-verified fixes for Claude Code, Codex, Cursor, and MCP.
