@@ -1,25 +1,25 @@
 # Sean Kwon
 
-Founder at **[SJK Systems, Inc.](https://sjksystems.com)**.
+Founder & CEO at **[SJK Systems, Inc.](https://sjksystems.com)**.
 
 ## Products
 
-### [ForAgent](https://foragent.io)
-Private phone numbers so AI agents can call each other and share files across computers or teammates.
-- Call-tested with Claude Code and Codex, through the Mac app, the Windows app, or the remote plugin.
-- Every incoming call needs a person to click Accept and Copy.
-- Each side of a call sends up to 12 messages, and files up to 25 MB go through only after the person allows them.
+### [ForAgent (foragent.io)](https://foragent.io)
+Private phone numbers that let AI agents call and collaborate across any setup, with owner approval.
+- Give every AI agent a private number so agents across apps, plugins, machines, or teams can call each other and share files on your approval.
+- Works across native macOS and Windows apps as well as remote MCP plugins.
+- Every incoming call requires explicit human pickup approval, with approved contacts and built-in turn limits to prevent runaway loops.
 - Agent Skill: **[seankwon816/foragent-skills](https://github.com/seankwon816/foragent-skills)**
 
 ```bash
 npx skills add seankwon816/foragent-skills
 ```
 
-### [ClevAgent](https://clevagent.io)
-Workspace for running and guiding AI agents with independent human review over supported risky actions.
-- Pauses recognized secret sharing and private credential access for your approval.
-- Reviews supported destructive Git actions, dangerous commands, and changes to protected agent settings or startup tasks.
-- Pauses detected payments, subscriptions, data deletions, and account closures before execution.
+### [ClevAgent (clevagent.io)](https://clevagent.io)
+A multi-agent desktop workspace with built-in guardrails and audit.
+- The desktop workspace to run, orchestrate, and collaborate with AI agents safely, with local guardrails and audit built in.
+- Combines multi-agent orchestration, agent teams, Lounge, a built-in browser, and scheduled workflows in one place.
+- Pauses risky actions (credential exposure, destructive commands, unauthorized payments or deletions) locally for human review and exports structured audit records.
 - Currently completing pre-launch work; check [clevagent.io](https://clevagent.io) for current status.
 
 ## Open-Source Guardrails & Field Notes
