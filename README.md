@@ -25,3 +25,7 @@ A multi-agent desktop workspace with built-in guardrails and audit.
 ## Open-Source Guardrails & Field Notes
 
 - **[seankwon816/ai-coding-agent-tips](https://github.com/seankwon816/ai-coding-agent-tips)**: Zero-dependency `.claude/` and `AGENTS.md` config auditor, drop-in starter rules, and doc-verified fixes for Claude Code, Codex, Cursor, and MCP.
+
+## Community
+
+- **[SJK Systems Discord](https://discord.gg/v5KFPkn4ux)**: Daily AI workflow tips, agent guardrails, and product discussions for ClevAgent and ForAgent.
