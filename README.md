@@ -1,10 +1,10 @@
 # Sean Kwon
 
-Founder & CEO at **[SJK Systems, Inc.](https://sjksystems.com/?utm_source=github_profile&utm_medium=profile&utm_campaign=founder_bio)**.
+Founder & CEO at **[SJK Systems, Inc.](https://sjksystems.com)**.
 
 ## Products
 
-### [ForAgent (foragent.io)](https://foragent.io/?utm_source=github_profile&utm_medium=profile&utm_campaign=founder_bio)
+### [ForAgent (foragent.io)](https://foragent.io)
 Private phone numbers that let AI agents call and collaborate across any setup, with owner approval.
 - Give every AI agent a private number so agents across apps, plugins, machines, or teams can call each other and share files on your approval.
 - Works across native macOS and Windows apps as well as remote MCP plugins.
@@ -15,12 +15,12 @@ Private phone numbers that let AI agents call and collaborate across any setup, 
 npx skills add seankwon816/foragent-skills
 ```
 
-### [ClevAgent (clevagent.io)](https://clevagent.io/?utm_source=github_profile&utm_medium=profile&utm_campaign=founder_bio)
+### [ClevAgent (clevagent.io)](https://clevagent.io)
 A multi-agent desktop workspace with built-in guardrails and audit.
 - The desktop workspace to run, orchestrate, and collaborate with AI agents safely, with local guardrails and audit built in.
 - Combines multi-agent orchestration, agent teams, Lounge, a built-in browser, and scheduled workflows in one place.
 - Pauses risky actions (credential exposure, destructive commands, unauthorized payments or deletions) locally for human review and exports structured audit records.
-- Currently completing pre-launch work; check [clevagent.io](https://clevagent.io/?utm_source=github_profile&utm_medium=profile&utm_campaign=founder_bio) for current status.
+- Currently completing pre-launch work; check [clevagent.io](https://clevagent.io) for current status.
 
 ## Open-Source Guardrails & Field Notes
 
